@@ -8,3 +8,6 @@ mainly used for scientific porpuses
 
 
 an image and the related output are attached as an example
+
+
+![alt text](https://github.com/theXtDev/chart-image-data-extraction/blob/main/preivew.jpg?raw=true)
