@@ -3,7 +3,7 @@
 
 - designed for extracting data points from chart images
 - outputs data in csv or xlsx format
-- mainly used for scientific porpuses
+- designed for educational and scientific porpuses
 - requried packages: opencv-python, scipy, numpy, pandas, matplotlib, tk, ipywidgets, IPython, os, tk 
 
 - 🔖 sample input and output data are available
