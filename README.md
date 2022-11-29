@@ -6,4 +6,4 @@
 - mainly used for scientific porpuses
 - requried packages: opencv-python, scipy, numpy, pandas, matplotlib, tk, ipywidgets, IPython, os, tk 
 
-- 🔖 you can find an example chart image and the final excel output in the example folder
+- 🔖 sample input and output data are available
