@@ -1,7 +1,7 @@
 ![alt text](https://github.com/theXtDev/chart-image-data-extraction/blob/main/preivew.jpg?raw=true)
 
 
-designed for extracting a set of data points from chart image
+designed for extracting a set of data points from chart images
 
 
 outputs data in csv or xlsx format
