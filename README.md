@@ -4,6 +4,6 @@
 - designed for extracting data points from chart images
 - outputs data in csv or xlsx format
 - mainly used for scientific porpuses
-- 🔖 an example file and its output are availble in the example folder
+- 🔖 you can find an example chart image and the final excel output in the exp folder
 - requried packages: opencv-python, scipy, numpy, pandas, matplotlib, tk, ipywidgets, IPython, os, tk 
 
