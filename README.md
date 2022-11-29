@@ -1,2 +1,4 @@
-# chart-image-data-extraction
-extract data from scientific charts, using the raw image of it.
+designed for extracting a set of data points from chart image
+outputs data in csv or xlsx format
+mainly used for scientific porpuses
+an image and the related output are attached as an example
