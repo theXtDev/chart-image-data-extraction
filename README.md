@@ -8,6 +8,6 @@ mainly used for scientific porpuses
 
 an example file and its output is availble in the example folder
 
-Requried packages:
+requried packages:
 
 opencv-python, scipy, numpy, pandas, matplotlib, tk, ipywidgets, IPython, os, tk 
